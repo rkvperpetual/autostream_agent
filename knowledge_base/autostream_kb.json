@@ -1,0 +1,65 @@
+{
+  "product": "AutoStream",
+  "tagline": "Automated Video Editing Tools for Content Creators",
+  "description": "AutoStream is a powerful SaaS platform that uses AI to automate video editing for content creators. It handles cutting, transitions, captions, and rendering — so creators can focus on content, not editing.",
+  "plans": [
+    {
+      "name": "Basic Plan",
+      "price": "$29/month",
+      "features": [
+        "10 videos per month",
+        "720p resolution output",
+        "Standard editing tools (cut, trim, merge)",
+        "Basic transitions and effects",
+        "Email support during business hours",
+        "Cloud storage for 30 days"
+      ]
+    },
+    {
+      "name": "Pro Plan",
+      "price": "$79/month",
+      "features": [
+        "Unlimited videos per month",
+        "4K resolution output",
+        "AI-powered auto captions",
+        "Advanced AI editing tools",
+        "Priority rendering queue",
+        "24/7 dedicated support",
+        "Cloud storage for 1 year",
+        "Custom branding and watermarks",
+        "Multi-platform export presets (YouTube, Instagram, TikTok)"
+      ]
+    }
+  ],
+  "policies": [
+    "No refunds after 7 days of purchase",
+    "24/7 support is available only on the Pro plan",
+    "Basic plan users have access to email support during business hours only",
+    "Annual billing is available and offers 2 months free (equivalent to ~17% discount)",
+    "A 14-day free trial is available for the Pro plan — no credit card required",
+    "You can cancel your subscription at any time; access continues until the billing period ends",
+    "Upgrading from Basic to Pro is instant; the price difference is prorated for the remaining billing cycle"
+  ],
+  "faqs": [
+    {
+      "question": "Can I upgrade from Basic to Pro?",
+      "answer": "Yes, you can upgrade at any time from your dashboard. The price difference will be prorated for the remaining billing period."
+    },
+    {
+      "question": "What video formats are supported?",
+      "answer": "AutoStream supports MP4, MOV, AVI, and MKV for input. Output is always delivered in optimized MP4 format."
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "Yes! We offer a 14-day free trial on the Pro plan. No credit card required. You get full access to all Pro features during the trial."
+    },
+    {
+      "question": "Which platforms does AutoStream support for export?",
+      "answer": "AutoStream supports export presets optimized for YouTube, Instagram Reels, TikTok, Twitter/X, and Facebook. The Pro plan includes all platform presets."
+    },
+    {
+      "question": "Does AutoStream work for all types of content?",
+      "answer": "AutoStream is ideal for YouTube videos, Instagram Reels, TikTok content, podcasts with video, tutorial videos, and vlogs. It works best for creators who publish regularly."
+    }
+  ]
+}

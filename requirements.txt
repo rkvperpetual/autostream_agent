@@ -1,0 +1,13 @@
+# AutoStream AI Agent — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+langchain>=0.2.0
+langchain-core>=0.2.0
+langgraph>=0.1.0
+langchain-anthropic>=0.1.15    # Claude 3 Haiku via Anthropic API
+
+python-dotenv>=1.0.0           # Loads .env file for API keys
+
+langchain-openai>=0.1.0      # For GPT-4o-mini (requires OPENAI_API_KEY)
+langchain-google-genai>=1.0  # For Gemini 1.5 Flash (requires GOOGLE_API_KEY)
+langchain_anthropic>=0.1.15    # For Claude 3 Haiku (requires ANTHROPIC_API_KEY)
